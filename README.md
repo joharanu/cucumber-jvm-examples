@@ -1,7 +1,8 @@
 cucumber-jvm-examples
 =====================
 
-Cucumber-jvm examples with Maven
+Cucumber-jvm examples with Maven 
+Needs to be updated to latest version
 
 To run:
 
